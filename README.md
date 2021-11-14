@@ -17,10 +17,6 @@
 ![MaterialUI](https://img.shields.io/badge/MaterialUI-yellowgreen?style=for-the-badge&logo=MaterialUI)
 
 
-#### Сontacts
-![Telegram(https://t.me/buikossha)](https://img.shields.io/badge/Telegram-beige?style=for-the-badge&logo=Telegram)
-![HeadHunter(https://hh.ru/resume/f8f1166dff085d6de50039ed1f79796242316b)](https://img.shields.io/badge/HeadHunter-red?style=for-the-badge&logo=HeadHunter)
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaleriyaa&count_private=true&show_icons=true&theme=dark)
 
